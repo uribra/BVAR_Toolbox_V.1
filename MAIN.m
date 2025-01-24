@@ -11,7 +11,7 @@ randn('seed',2);
 
 %--------------------------------------------------------------------------
 % SET THE DIRECTORIES
-cd '/Users/Uriel/Desktop/BVAR_Toolbox_V.1/BVAR_Toolbox_V.1';
+cd '/BVAR_Toolbox_V.1';
 addpath(cd,'Utilities');
 addpath(cd,'Subroutines');
 addpath(cd,'VAR');
