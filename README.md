@@ -1,5 +1,3 @@
-# Bayesian Vector Autoregression (BVAR) Toolbox 
-
 # BVAR_Toolbox_V.1
 
 **BVAR_Toolbox_V.1** is a MATLAB toolbox for estimating **Bayesian Vector Autoregression (BVAR)** models with multiple prior options. It includes tools for **forecast error variance decomposition (FEVD)** and **structural impulse response functions (SIRFs)**, widely used in macroeconomic analysis.
@@ -43,8 +41,7 @@ The example uses macroeconomic U.S. time series data (e.g., GDP, inflation, inte
 - Structural impulse response functions (SIRFs) to monetary policy shocks
 - Forecast error variance decomposition (FEVD) of output and inflation
 
-
-[IRF_3.pdf](https://github.com/user-attachments/files/20421876/IRF_3.pdf)
+![Bildschirmfoto 2025-05-24 um 10 21 56](https://github.com/user-attachments/assets/2ea21087-9c40-402b-b339-68af5bc3c729)
 
 ---
 
